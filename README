@@ -1,0 +1,1 @@
+An ImageJ plugin that performs transformation of unregistered image to the base coordinates according to a alignment coefficients given as a text file.
